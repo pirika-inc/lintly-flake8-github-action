@@ -4,6 +4,8 @@ A GitHub Action that lints Python code with Flake8 then automatically creates pu
 
 See [this pull request](https://github.com/grantmcconnaughey/lintly-flake8-github-action/pull/1#pullrequestreview-338419294) for an example.
 
+**Note: This fork uses [hacking](https://pypi.org/project/hacking).**
+
 ## Usage
 
 To use Lintly-Flake8 GitHub Action, add the following to a GitHub Actions workflow file such as `.github/workflows/main.yml`:
